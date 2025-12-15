@@ -19,7 +19,7 @@ I actively work on academic, personal, and learning-based projects. Some highlig
 ### 📘 BookVerse – Bookstore Management System
 - A web-based bookstore management application
 - Features: book listing, management, and basic CRUD operations
-- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MySQL
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB
 
 ### 🤖 AI Personalized Study Plan Generator
 - Generates customized study plans using data mining and machine learning techniques
